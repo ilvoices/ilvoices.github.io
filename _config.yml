@@ -1,14 +1,10 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+title: Illinois Voices for Reform
+email: info@ilvoices.com
+description: >
+  Illinois Voices fights for and supports laws that MAKE SENSE, ones that actually make society safer while protecting the constitutional rights of everyone involved. We believe laws should be passed based on research and empirical evidence of what works and what does not. “Feel good” laws based on public hysteria surrounding high-profile, but rare cases waste taxpayer dollars, violate the rights of individuals, and can actually detract from public safety.
+baseurl: ""
+url: "http://ilvoices.github.io"
 
 # Build settings
 markdown: kramdown
